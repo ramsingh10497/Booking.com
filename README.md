@@ -11,10 +11,6 @@ https://booking-com.netlify.app
 
 Booking.com requires [Node.js](https://nodejs.org/) to run.
 
-Download the project.
-[Download Here](https://github.com/Ramlala-Yadav-Git/Booking.com-clone/archive/refs/heads/main.zip)
-
-
 Clone the project from Command prompt or Bash.
 
 ```bash
@@ -58,10 +54,7 @@ React, Javascript, Material-UI, React-router-dom, Axios, Styled-components, Json
 
 # Contributers
 
-- [@vishnusankar95](https://github.com/vishnusankar95)
-- [@Rakesh-pilly](https://github.com/Rakesh-pilly)
-- [@Ramlala-Yadav-Git](https://github.com/Ramlala-Yadav-Git)
-- [@ManishSinghBhadouria](https://github.com/ManishSinghBhadouria)
+- [@ramsingh10497](https://github.com/ramsingh10497)
 
 
 
@@ -88,9 +81,7 @@ React, Javascript, Material-UI, React-router-dom, Axios, Styled-components, Json
 
 If you have any feedback, please reach out to us at
 
-ramlala_nj2_075@masai.school
-
-rakesh_nj2_106@masai.school
+rams48705@gmail.com
 
 Vishnu_nj2_010@masai.school 
 
