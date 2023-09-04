@@ -83,8 +83,4 @@ If you have any feedback, please reach out to us at
 
 rams48705@gmail.com
 
-Vishnu_nj2_010@masai.school 
-
-manish_nj2_103@masai.school
-
 
