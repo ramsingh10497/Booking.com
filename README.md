@@ -14,7 +14,7 @@ Booking.com requires [Node.js](https://nodejs.org/) to run.
 Clone the project from Command prompt or Bash.
 
 ```bash
-git clone https://github.com/Ramlala-Yadav-Git/Booking.com-clone.git
+git clone git@github.com:ramsingh10497/Booking.com.git
 ```
 
 Install the dependencies and devDependencies and start the server from command propmt or any other command shell.
